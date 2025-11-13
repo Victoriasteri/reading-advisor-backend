@@ -1,5 +1,6 @@
 import pickle
 import json
+import random
 from pathlib import Path
 
 from fastapi import FastAPI
@@ -80,16 +81,16 @@ def recommend(query: Query):
     """
     genre, mood, depth = predict_labels(query.text)
 
-    best_book = None
-    best_score = -1
-
+    # Score all books
+    scored_books = []
     for book in BOOKS:
         s = score_book(book, genre, mood, depth)
-        if s > best_score:
-            best_score = s
-            best_book = book
+        scored_books.append((s, book))
 
-    if best_book is None:
+    # Sort by score (descending)
+    scored_books.sort(key=lambda x: x[0], reverse=True)
+    
+    if not scored_books or scored_books[0][0] < 0:
         return {
             "message": "No suitable book found",
             "predicted": {
@@ -98,6 +99,13 @@ def recommend(query: Query):
                 "depth": depth
             }
         }
+
+    # Get all books with the best score
+    best_score = scored_books[0][0]
+    best_books = [book for score, book in scored_books if score == best_score]
+    
+    # Randomly select from top-scoring books to add variety
+    best_book = random.choice(best_books)
 
     return {
         "predicted": {
