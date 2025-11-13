@@ -1,0 +1,194 @@
+[
+  {
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "language": "en",
+    "genre": ["self_help"],
+    "mood": ["soft", "motivating"],
+    "depth": "light"
+  },
+  {
+    "title": "The Midnight Library",
+    "author": "Matt Haig",
+    "language": "en",
+    "genre": ["fiction"],
+    "mood": ["cozy", "emotional"],
+    "depth": "medium"
+  },
+  {
+    "title": "Man's Search for Meaning",
+    "author": "Viktor E. Frankl",
+    "language": "en",
+    "genre": ["philosophy", "psychology"],
+    "mood": ["deep", "serious"],
+    "depth": "deep"
+  },
+  {
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "language": "en",
+    "genre": ["fiction"],
+    "mood": ["soft", "philosophical"],
+    "depth": "medium"
+  },
+  {
+    "title": "Ikigai: The Japanese Secret to a Long and Happy Life",
+    "author": "Héctor García, Francesc Miralles",
+    "language": "en",
+    "genre": ["self_help"],
+    "mood": ["cozy", "soft"],
+    "depth": "light"
+  },
+  {
+    "title": "The Little Prince",
+    "author": "Antoine de Saint-Exupéry",
+    "language": "en",
+    "genre": ["fiction"],
+    "mood": ["soft", "cozy"],
+    "depth": "light"
+  },
+  {
+    "title": "The Power of Now",
+    "author": "Eckhart Tolle",
+    "language": "en",
+    "genre": ["philosophy", "self_help"],
+    "mood": ["deep", "calm"],
+    "depth": "deep"
+  },
+  {
+    "title": "The Subtle Art of Not Giving a F*ck",
+    "author": "Mark Manson",
+    "language": "en",
+    "genre": ["self_help"],
+    "mood": ["direct", "motivating"],
+    "depth": "medium"
+  },
+  {
+    "title": "Norwegian Wood",
+    "author": "Haruki Murakami",
+    "language": "en",
+    "genre": ["fiction"],
+    "mood": ["deep", "melancholic"],
+    "depth": "medium"
+  },
+  {
+    "title": "Kafka on the Shore",
+    "author": "Haruki Murakami",
+    "language": "en",
+    "genre": ["fiction"],
+    "mood": ["deep", "surreal"],
+    "depth": "deep"
+  },
+  {
+    "title": "Tuesdays with Morrie",
+    "author": "Mitch Albom",
+    "language": "en",
+    "genre": ["fiction", "philosophy"],
+    "mood": ["soft", "emotional"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Four Agreements",
+    "author": "Don Miguel Ruiz",
+    "language": "en",
+    "genre": ["self_help", "philosophy"],
+    "mood": ["soft", "calm"],
+    "depth": "light"
+  },
+  {
+    "title": "Quiet: The Power of Introverts in a World That Can't Stop Talking",
+    "author": "Susan Cain",
+    "language": "en",
+    "genre": ["psychology"],
+    "mood": ["deep", "reflective"],
+    "depth": "medium"
+  },
+  {
+    "title": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "language": "en",
+    "genre": ["psychology"],
+    "mood": ["deep", "analytical"],
+    "depth": "deep"
+  },
+  {
+    "title": "The Comfort Book",
+    "author": "Matt Haig",
+    "language": "en",
+    "genre": ["self_help"],
+    "mood": ["cozy", "soft"],
+    "depth": "light"
+  },
+  {
+    "title": "The Book Thief",
+    "author": "Markus Zusak",
+    "language": "en",
+    "genre": ["fiction"],
+    "mood": ["deep", "emotional"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Ocean at the End of the Lane",
+    "author": "Neil Gaiman",
+    "language": "en",
+    "genre": ["fiction"],
+    "mood": ["cozy", "dark"],
+    "depth": "medium"
+  },
+  {
+    "title": "Meditations",
+    "author": "Marcus Aurelius",
+    "language": "en",
+    "genre": ["philosophy"],
+    "mood": ["deep", "serious"],
+    "depth": "deep"
+  },
+  {
+    "title": "Flow: The Psychology of Optimal Experience",
+    "author": "Mihaly Csikszentmihalyi",
+    "language": "en",
+    "genre": ["psychology"],
+    "mood": ["deep", "motivating"],
+    "depth": "deep"
+  },
+  {
+    "title": "The Gifts of Imperfection",
+    "author": "Brené Brown",
+    "language": "en",
+    "genre": ["self_help", "psychology"],
+    "mood": ["soft", "encouraging"],
+    "depth": "medium"
+  },
+  {
+    "title": "Eleanor Oliphant Is Completely Fine",
+    "author": "Gail Honeyman",
+    "language": "en",
+    "genre": ["fiction"],
+    "mood": ["soft", "emotional"],
+    "depth": "medium"
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "language": "en",
+    "genre": ["fiction"],
+    "mood": ["cozy", "light"],
+    "depth": "medium"
+  },
+  {
+    "title": "Sapiens: A Brief History of Humankind",
+    "author": "Yuval Noah Harari",
+    "language": "en",
+    "genre": ["philosophy"],
+    "mood": ["deep", "analytical"],
+    "depth": "deep"
+  },
+  {
+    "title": "The Prophet",
+    "author": "Kahlil Gibran",
+    "language": "en",
+    "genre": ["philosophy"],
+    "mood": ["soft", "poetic"],
+    "depth": "medium"
+  }
+]
