@@ -190,5 +190,1213 @@
     "genre": ["philosophy"],
     "mood": ["soft", "poetic"],
     "depth": "medium"
+  },
+  {
+    "title": "The Seven Husbands of Evelyn Hugo",
+    "author": "Taylor Jenkins Reid",
+    "language": "en",
+    "genre": ["fiction"],
+    "mood": ["cozy", "emotional"],
+    "depth": "medium"
+  },
+  {
+    "title": "Daring Greatly",
+    "author": "Brené Brown",
+    "language": "en",
+    "genre": ["self_help", "psychology"],
+    "mood": ["soft", "encouraging"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Kite Runner",
+    "author": "Khaled Hosseini",
+    "language": "en",
+    "genre": ["fiction"],
+    "mood": ["deep", "emotional"],
+    "depth": "deep"
+  },
+  {
+    "title": "Educated",
+    "author": "Tara Westover",
+    "language": "en",
+    "genre": ["fiction"],
+    "mood": ["deep", "reflective"],
+    "depth": "deep"
+  },
+  {
+    "title": "The Untethered Soul",
+    "author": "Michael A. Singer",
+    "language": "en",
+    "genre": ["philosophy", "self_help"],
+    "mood": ["deep", "calm"],
+    "depth": "medium"
+  },
+  {
+    "title": "Big Magic: Creative Living Beyond Fear",
+    "author": "Elizabeth Gilbert",
+    "language": "en",
+    "genre": ["self_help"],
+    "mood": ["cozy", "motivating"],
+    "depth": "light"
+  },
+  {
+    "title": "The Bell Jar",
+    "author": "Sylvia Plath",
+    "language": "en",
+    "genre": ["fiction"],
+    "mood": ["deep", "dark"],
+    "depth": "deep"
+  },
+  {
+    "title": "The Road Less Traveled",
+    "author": "M. Scott Peck",
+    "language": "en",
+    "genre": ["psychology", "self_help"],
+    "mood": ["deep", "reflective"],
+    "depth": "deep"
+  },
+  {
+    "title": "Where the Crawdads Sing",
+    "author": "Delia Owens",
+    "language": "en",
+    "genre": ["fiction"],
+    "mood": ["cozy", "emotional"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Body Keeps the Score",
+    "author": "Bessel van der Kolk",
+    "language": "en",
+    "genre": ["psychology"],
+    "mood": ["deep", "serious"],
+    "depth": "deep"
+  },
+  {
+    "title": "The Happiness Project",
+    "author": "Gretchen Rubin",
+    "language": "en",
+    "genre": ["self_help"],
+    "mood": ["cozy", "soft"],
+    "depth": "light"
+  },
+  {
+    "title": "One Hundred Years of Solitude",
+    "author": "Gabriel García Márquez",
+    "language": "en",
+    "genre": ["fiction"],
+    "mood": ["deep", "surreal"],
+    "depth": "deep"
+  },
+  {
+    "title": "The Art of Happiness",
+    "author": "Dalai Lama, Howard Cutler",
+    "language": "en",
+    "genre": ["philosophy", "self_help"],
+    "mood": ["soft", "calm"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Handmaid's Tale",
+    "author": "Margaret Atwood",
+    "language": "en",
+    "genre": ["fiction"],
+    "mood": ["deep", "dark"],
+    "depth": "deep"
+  },
+  {
+    "title": "The 5 Love Languages",
+    "author": "Gary Chapman",
+    "language": "en",
+    "genre": ["self_help", "psychology"],
+    "mood": ["soft", "cozy"],
+    "depth": "light"
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "language": "en",
+    "genre": ["fiction"],
+    "mood": ["deep", "dark"],
+    "depth": "medium"
+  },
+  {
+    "title": "When Breath Becomes Air",
+    "author": "Paul Kalanithi",
+    "language": "en",
+    "genre": ["philosophy"],
+    "mood": ["deep", "emotional"],
+    "depth": "deep"
+  },
+  {
+    "title": "The Life-Changing Magic of Tidying Up",
+    "author": "Marie Kondo",
+    "language": "en",
+    "genre": ["self_help"],
+    "mood": ["cozy", "soft"],
+    "depth": "light"
+  },
+  {
+    "title": "The Stranger",
+    "author": "Albert Camus",
+    "language": "en",
+    "genre": ["philosophy", "fiction"],
+    "mood": ["deep", "dark"],
+    "depth": "deep"
+  },
+  {
+    "title": "The Glass Castle",
+    "author": "Jeannette Walls",
+    "language": "en",
+    "genre": ["fiction"],
+    "mood": ["deep", "emotional"],
+    "depth": "medium"
+  },
+  {
+    "title": "Mindset: The New Psychology of Success",
+    "author": "Carol S. Dweck",
+    "language": "en",
+    "genre": ["psychology", "self_help"],
+    "mood": ["deep", "motivating"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Secret Garden",
+    "author": "Frances Hodgson Burnett",
+    "language": "en",
+    "genre": ["fiction"],
+    "mood": ["cozy", "soft"],
+    "depth": "light"
+  },
+  {
+    "title": "The Obstacle Is the Way",
+    "author": "Ryan Holiday",
+    "language": "en",
+    "genre": ["philosophy", "self_help"],
+    "mood": ["deep", "motivating"],
+    "depth": "medium"
+  },
+  {
+    "title": "Circe",
+    "author": "Madeline Miller",
+    "language": "en",
+    "genre": ["fiction"],
+    "mood": ["cozy", "deep"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Giver",
+    "author": "Lois Lowry",
+    "language": "en",
+    "genre": ["fiction"],
+    "mood": ["deep", "reflective"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Art of War",
+    "author": "Sun Tzu",
+    "language": "en",
+    "genre": ["philosophy"],
+    "mood": ["deep", "analytical"],
+    "depth": "deep"
+  },
+  {
+    "title": "The Help",
+    "author": "Kathryn Stockett",
+    "language": "en",
+    "genre": ["fiction"],
+    "mood": ["cozy", "emotional"],
+    "depth": "medium"
+  },
+  {
+    "title": "The 48 Laws of Power",
+    "author": "Robert Greene",
+    "language": "en",
+    "genre": ["psychology", "philosophy"],
+    "mood": ["deep", "analytical"],
+    "depth": "deep"
+  },
+  {
+    "title": "A Man Called Ove",
+    "author": "Fredrik Backman",
+    "language": "en",
+    "genre": ["fiction"],
+    "mood": ["cozy", "soft"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Psychology of Money",
+    "author": "Morgan Housel",
+    "language": "en",
+    "genre": ["psychology", "self_help"],
+    "mood": ["deep", "reflective"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Song of Achilles",
+    "author": "Madeline Miller",
+    "language": "en",
+    "genre": ["fiction"],
+    "mood": ["cozy", "emotional"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Courage to Be Disliked",
+    "author": "Ichiro Kishimi, Fumitake Koga",
+    "language": "en",
+    "genre": ["philosophy", "psychology"],
+    "mood": ["deep", "reflective"],
+    "depth": "medium"
+  },
+  {
+    "title": "The House in the Cerulean Sea",
+    "author": "T.J. Klune",
+    "language": "en",
+    "genre": ["fiction"],
+    "mood": ["cozy", "soft"],
+    "depth": "light"
+  },
+  {
+    "title": "The Psychology of Persuasion",
+    "author": "Robert Cialdini",
+    "language": "en",
+    "genre": ["psychology"],
+    "mood": ["deep", "analytical"],
+    "depth": "deep"
+  },
+  {
+    "title": "The Night Circus",
+    "author": "Erin Morgenstern",
+    "language": "en",
+    "genre": ["fiction"],
+    "mood": ["cozy", "dark"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Book of Joy",
+    "author": "Dalai Lama, Desmond Tutu",
+    "language": "en",
+    "genre": ["philosophy", "self_help"],
+    "mood": ["cozy", "soft"],
+    "depth": "medium"
+  },
+  {
+    "title": "Project Hail Mary",
+    "author": "Andy Weir",
+    "language": "en",
+    "genre": ["fiction"],
+    "mood": ["cozy", "motivating"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Psychology of Human Misjudgment",
+    "author": "Charlie Munger",
+    "language": "en",
+    "genre": ["psychology"],
+    "mood": ["deep", "analytical"],
+    "depth": "deep"
+  },
+  {
+    "title": "The Thursday Murder Club",
+    "author": "Richard Osman",
+    "language": "en",
+    "genre": ["fiction"],
+    "mood": ["cozy", "soft"],
+    "depth": "light"
+  },
+  {
+    "title": "The Wisdom of Insecurity",
+    "author": "Alan Watts",
+    "language": "en",
+    "genre": ["philosophy"],
+    "mood": ["deep", "calm"],
+    "depth": "deep"
+  },
+  {
+    "title": "The Overstory",
+    "author": "Richard Powers",
+    "language": "en",
+    "genre": ["fiction"],
+    "mood": ["deep", "reflective"],
+    "depth": "deep"
+  },
+  {
+    "title": "The 7 Habits of Highly Effective People",
+    "author": "Stephen R. Covey",
+    "language": "en",
+    "genre": ["self_help"],
+    "mood": ["deep", "motivating"],
+    "depth": "medium"
+  },
+  {
+    "title": "Klara and the Sun",
+    "author": "Kazuo Ishiguro",
+    "language": "en",
+    "genre": ["fiction"],
+    "mood": ["soft", "reflective"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Tao of Pooh",
+    "author": "Benjamin Hoff",
+    "language": "en",
+    "genre": ["philosophy"],
+    "mood": ["cozy", "soft"],
+    "depth": "light"
+  },
+  {
+    "title": "The Immortal Life of Henrietta Lacks",
+    "author": "Rebecca Skloot",
+    "language": "en",
+    "genre": ["fiction"],
+    "mood": ["deep", "reflective"],
+    "depth": "deep"
+  },
+  {
+    "title": "The Miracle Morning",
+    "author": "Hal Elrod",
+    "language": "en",
+    "genre": ["self_help"],
+    "mood": ["cozy", "motivating"],
+    "depth": "light"
+  },
+  {
+    "title": "The Remains of the Day",
+    "author": "Kazuo Ishiguro",
+    "language": "en",
+    "genre": ["fiction"],
+    "mood": ["soft", "reflective"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Righteous Mind",
+    "author": "Jonathan Haidt",
+    "language": "en",
+    "genre": ["psychology", "philosophy"],
+    "mood": ["deep", "analytical"],
+    "depth": "deep"
+  },
+  {
+    "title": "The Storied Life of A.J. Fikry",
+    "author": "Gabrielle Zevin",
+    "language": "en",
+    "genre": ["fiction"],
+    "mood": ["cozy", "soft"],
+    "depth": "light"
+  },
+  {
+    "title": "The Mastery of Love",
+    "author": "Don Miguel Ruiz",
+    "language": "en",
+    "genre": ["philosophy", "self_help"],
+    "mood": ["soft", "calm"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Goldfinch",
+    "author": "Donna Tartt",
+    "language": "en",
+    "genre": ["fiction"],
+    "mood": ["deep", "dark"],
+    "depth": "deep"
+  },
+  {
+    "title": "The 4-Hour Workweek",
+    "author": "Tim Ferriss",
+    "language": "en",
+    "genre": ["self_help"],
+    "mood": ["cozy", "motivating"],
+    "depth": "light"
+  },
+  {
+    "title": "The Unbearable Lightness of Being",
+    "author": "Milan Kundera",
+    "language": "en",
+    "genre": ["fiction", "philosophy"],
+    "mood": ["deep", "reflective"],
+    "depth": "deep"
+  },
+  {
+    "title": "The Inner Game of Tennis",
+    "author": "W. Timothy Gallwey",
+    "language": "en",
+    "genre": ["psychology", "self_help"],
+    "mood": ["soft", "reflective"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Name of the Wind",
+    "author": "Patrick Rothfuss",
+    "language": "en",
+    "genre": ["fiction"],
+    "mood": ["cozy", "deep"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Art of Living",
+    "author": "Epictetus",
+    "language": "en",
+    "genre": ["philosophy"],
+    "mood": ["deep", "serious"],
+    "depth": "deep"
+  },
+  {
+    "title": "The Five People You Meet in Heaven",
+    "author": "Mitch Albom",
+    "language": "en",
+    "genre": ["fiction", "philosophy"],
+    "mood": ["soft", "emotional"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Willpower Instinct",
+    "author": "Kelly McGonigal",
+    "language": "en",
+    "genre": ["psychology", "self_help"],
+    "mood": ["deep", "motivating"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Shadow of the Wind",
+    "author": "Carlos Ruiz Zafón",
+    "language": "en",
+    "genre": ["fiction"],
+    "mood": ["cozy", "dark"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Art of Thinking Clearly",
+    "author": "Rolf Dobelli",
+    "language": "en",
+    "genre": ["psychology"],
+    "mood": ["deep", "analytical"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Time Traveler's Wife",
+    "author": "Audrey Niffenegger",
+    "language": "en",
+    "genre": ["fiction"],
+    "mood": ["cozy", "emotional"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Daily Stoic",
+    "author": "Ryan Holiday",
+    "language": "en",
+    "genre": ["philosophy", "self_help"],
+    "mood": ["deep", "reflective"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Girl with the Dragon Tattoo",
+    "author": "Stieg Larsson",
+    "language": "en",
+    "genre": ["fiction"],
+    "mood": ["deep", "dark"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Power of Habit",
+    "author": "Charles Duhigg",
+    "language": "en",
+    "genre": ["psychology", "self_help"],
+    "mood": ["deep", "analytical"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Fault in Our Stars",
+    "author": "John Green",
+    "language": "en",
+    "genre": ["fiction"],
+    "mood": ["soft", "emotional"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Republic",
+    "author": "Plato",
+    "language": "en",
+    "genre": ["philosophy"],
+    "mood": ["deep", "serious"],
+    "depth": "deep"
+  },
+  {
+    "title": "The Lean Startup",
+    "author": "Eric Ries",
+    "language": "en",
+    "genre": ["self_help"],
+    "mood": ["cozy", "motivating"],
+    "depth": "light"
+  },
+  {
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "language": "en",
+    "genre": ["fiction"],
+    "mood": ["deep", "dark"],
+    "depth": "deep"
+  },
+  {
+    "title": "The Chimp Paradox",
+    "author": "Steve Peters",
+    "language": "en",
+    "genre": ["psychology", "self_help"],
+    "mood": ["soft", "reflective"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "language": "en",
+    "genre": ["fiction"],
+    "mood": ["deep", "reflective"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Art of Happiness at Work",
+    "author": "Dalai Lama, Howard Cutler",
+    "language": "en",
+    "genre": ["philosophy", "self_help"],
+    "mood": ["soft", "cozy"],
+    "depth": "light"
+  },
+  {
+    "title": "The 10% Happier",
+    "author": "Dan Harris",
+    "language": "en",
+    "genre": ["self_help"],
+    "mood": ["soft", "cozy"],
+    "depth": "light"
+  },
+  {
+    "title": "The Brothers Karamazov",
+    "author": "Fyodor Dostoevsky",
+    "language": "en",
+    "genre": ["fiction", "philosophy"],
+    "mood": ["deep", "dark"],
+    "depth": "deep"
+  },
+  {
+    "title": "The Paradox of Choice",
+    "author": "Barry Schwartz",
+    "language": "en",
+    "genre": ["psychology"],
+    "mood": ["deep", "analytical"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Little Women",
+    "author": "Louisa May Alcott",
+    "language": "en",
+    "genre": ["fiction"],
+    "mood": ["cozy", "soft"],
+    "depth": "light"
+  },
+  {
+    "title": "The Art of Stillness",
+    "author": "Pico Iyer",
+    "language": "en",
+    "genre": ["philosophy"],
+    "mood": ["soft", "calm"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Color Purple",
+    "author": "Alice Walker",
+    "language": "en",
+    "genre": ["fiction"],
+    "mood": ["deep", "emotional"],
+    "depth": "deep"
+  },
+  {
+    "title": "The Compound Effect",
+    "author": "Darren Hardy",
+    "language": "en",
+    "genre": ["self_help"],
+    "mood": ["cozy", "motivating"],
+    "depth": "light"
+  },
+  {
+    "title": "The Metamorphosis",
+    "author": "Franz Kafka",
+    "language": "en",
+    "genre": ["fiction", "philosophy"],
+    "mood": ["deep", "dark"],
+    "depth": "deep"
+  },
+  {
+    "title": "The Social Animal",
+    "author": "David Brooks",
+    "language": "en",
+    "genre": ["psychology", "fiction"],
+    "mood": ["deep", "reflective"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Wind in the Willows",
+    "author": "Kenneth Grahame",
+    "language": "en",
+    "genre": ["fiction"],
+    "mood": ["cozy", "soft"],
+    "depth": "light"
+  },
+  {
+    "title": "The Consolations of Philosophy",
+    "author": "Alain de Botton",
+    "language": "en",
+    "genre": ["philosophy"],
+    "mood": ["soft", "reflective"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Joy Luck Club",
+    "author": "Amy Tan",
+    "language": "en",
+    "genre": ["fiction"],
+    "mood": ["cozy", "emotional"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Now Habit",
+    "author": "Neil Fiore",
+    "language": "en",
+    "genre": ["self_help", "psychology"],
+    "mood": ["soft", "motivating"],
+    "depth": "light"
+  },
+  {
+    "title": "The Trial",
+    "author": "Franz Kafka",
+    "language": "en",
+    "genre": ["fiction", "philosophy"],
+    "mood": ["deep", "dark"],
+    "depth": "deep"
+  },
+  {
+    "title": "The Social Dilemma",
+    "author": "Tristan Harris",
+    "language": "en",
+    "genre": ["psychology"],
+    "mood": ["deep", "analytical"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Secret Life of Bees",
+    "author": "Sue Monk Kidd",
+    "language": "en",
+    "genre": ["fiction"],
+    "mood": ["cozy", "soft"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Art of Learning",
+    "author": "Josh Waitzkin",
+    "language": "en",
+    "genre": ["self_help", "psychology"],
+    "mood": ["deep", "motivating"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Plague",
+    "author": "Albert Camus",
+    "language": "en",
+    "genre": ["fiction", "philosophy"],
+    "mood": ["deep", "dark"],
+    "depth": "deep"
+  },
+  {
+    "title": "The Happiness Advantage",
+    "author": "Shawn Achor",
+    "language": "en",
+    "genre": ["psychology", "self_help"],
+    "mood": ["cozy", "motivating"],
+    "depth": "light"
+  },
+  {
+    "title": "The House of Mirth",
+    "author": "Edith Wharton",
+    "language": "en",
+    "genre": ["fiction"],
+    "mood": ["deep", "reflective"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Art of Peace",
+    "author": "Morihei Ueshiba",
+    "language": "en",
+    "genre": ["philosophy"],
+    "mood": ["soft", "calm"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Book of Form and Emptiness",
+    "author": "Ruth Ozeki",
+    "language": "en",
+    "genre": ["fiction"],
+    "mood": ["soft", "reflective"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Power of Full Engagement",
+    "author": "Jim Loehr, Tony Schwartz",
+    "language": "en",
+    "genre": ["self_help"],
+    "mood": ["deep", "motivating"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Old Man and the Sea",
+    "author": "Ernest Hemingway",
+    "language": "en",
+    "genre": ["fiction"],
+    "mood": ["deep", "reflective"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Art of Loving",
+    "author": "Erich Fromm",
+    "language": "en",
+    "genre": ["psychology", "philosophy"],
+    "mood": ["deep", "reflective"],
+    "depth": "deep"
+  },
+  {
+    "title": "The Rosie Project",
+    "author": "Graeme Simsion",
+    "language": "en",
+    "genre": ["fiction"],
+    "mood": ["cozy", "soft"],
+    "depth": "light"
+  },
+  {
+    "title": "The 80/20 Principle",
+    "author": "Richard Koch",
+    "language": "en",
+    "genre": ["self_help"],
+    "mood": ["cozy", "motivating"],
+    "depth": "light"
+  },
+  {
+    "title": "The Sun Also Rises",
+    "author": "Ernest Hemingway",
+    "language": "en",
+    "genre": ["fiction"],
+    "mood": ["deep", "reflective"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Art of Being",
+    "author": "Erich Fromm",
+    "language": "en",
+    "genre": ["philosophy", "psychology"],
+    "mood": ["deep", "reflective"],
+    "depth": "deep"
+  },
+  {
+    "title": "The Guernsey Literary and Potato Peel Pie Society",
+    "author": "Mary Ann Shaffer, Annie Barrows",
+    "language": "en",
+    "genre": ["fiction"],
+    "mood": ["cozy", "soft"],
+    "depth": "light"
+  },
+  {
+    "title": "The Power of Positive Thinking",
+    "author": "Norman Vincent Peale",
+    "language": "en",
+    "genre": ["self_help"],
+    "mood": ["cozy", "motivating"],
+    "depth": "light"
+  },
+  {
+    "title": "The Heart of Darkness",
+    "author": "Joseph Conrad",
+    "language": "en",
+    "genre": ["fiction"],
+    "mood": ["deep", "dark"],
+    "depth": "deep"
+  },
+  {
+    "title": "The Art of Asking",
+    "author": "Amanda Palmer",
+    "language": "en",
+    "genre": ["self_help"],
+    "mood": ["soft", "cozy"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Sense of an Ending",
+    "author": "Julian Barnes",
+    "language": "en",
+    "genre": ["fiction"],
+    "mood": ["deep", "reflective"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Art of Simple Living",
+    "author": "Shunmyo Masuno",
+    "language": "en",
+    "genre": ["philosophy", "self_help"],
+    "mood": ["soft", "calm"],
+    "depth": "light"
+  },
+  {
+    "title": "The Book of Longings",
+    "author": "Sue Monk Kidd",
+    "language": "en",
+    "genre": ["fiction"],
+    "mood": ["cozy", "emotional"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Power of Vulnerability",
+    "author": "Brené Brown",
+    "language": "en",
+    "genre": ["self_help", "psychology"],
+    "mood": ["soft", "encouraging"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Unconsoled",
+    "author": "Kazuo Ishiguro",
+    "language": "en",
+    "genre": ["fiction"],
+    "mood": ["deep", "reflective"],
+    "depth": "deep"
+  },
+  {
+    "title": "The Art of Possibility",
+    "author": "Rosamund Stone Zander, Benjamin Zander",
+    "language": "en",
+    "genre": ["self_help", "philosophy"],
+    "mood": ["cozy", "motivating"],
+    "depth": "medium"
+  },
+  {
+    "title": "The House of the Spirits",
+    "author": "Isabel Allende",
+    "language": "en",
+    "genre": ["fiction"],
+    "mood": ["cozy", "deep"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Power of Intention",
+    "author": "Wayne Dyer",
+    "language": "en",
+    "genre": ["philosophy", "self_help"],
+    "mood": ["soft", "motivating"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Elegance of the Hedgehog",
+    "author": "Muriel Barbery",
+    "language": "en",
+    "genre": ["fiction", "philosophy"],
+    "mood": ["soft", "reflective"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Art of Racing in the Rain",
+    "author": "Garth Stein",
+    "language": "en",
+    "genre": ["fiction"],
+    "mood": ["cozy", "emotional"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Power of Now Workbook",
+    "author": "Eckhart Tolle",
+    "language": "en",
+    "genre": ["philosophy", "self_help"],
+    "mood": ["soft", "calm"],
+    "depth": "light"
+  },
+  {
+    "title": "The Memory Keeper's Daughter",
+    "author": "Kim Edwards",
+    "language": "en",
+    "genre": ["fiction"],
+    "mood": ["soft", "emotional"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Art of War for Women",
+    "author": "Chin-Ning Chu",
+    "language": "en",
+    "genre": ["self_help", "philosophy"],
+    "mood": ["deep", "motivating"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Light We Lost",
+    "author": "Jill Santopolo",
+    "language": "en",
+    "genre": ["fiction"],
+    "mood": ["cozy", "emotional"],
+    "depth": "light"
+  },
+  {
+    "title": "The Power of Your Subconscious Mind",
+    "author": "Joseph Murphy",
+    "language": "en",
+    "genre": ["self_help", "psychology"],
+    "mood": ["soft", "motivating"],
+    "depth": "light"
+  },
+  {
+    "title": "The Unlikely Pilgrimage of Harold Fry",
+    "author": "Rachel Joyce",
+    "language": "en",
+    "genre": ["fiction"],
+    "mood": ["cozy", "soft"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Art of Mindfulness",
+    "author": "Thich Nhat Hanh",
+    "language": "en",
+    "genre": ["philosophy", "self_help"],
+    "mood": ["soft", "calm"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Book of Unknown Americans",
+    "author": "Cristina Henríquez",
+    "language": "en",
+    "genre": ["fiction"],
+    "mood": ["cozy", "emotional"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Power of Less",
+    "author": "Leo Babauta",
+    "language": "en",
+    "genre": ["self_help"],
+    "mood": ["soft", "calm"],
+    "depth": "light"
+  },
+  {
+    "title": "The Art of Living: The Classical Manual on Virtue, Happiness, and Effectiveness",
+    "author": "Epictetus, Sharon Lebell",
+    "language": "en",
+    "genre": ["philosophy"],
+    "mood": ["deep", "reflective"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Power of Focus",
+    "author": "Jack Canfield, Mark Victor Hansen, Les Hewitt",
+    "language": "en",
+    "genre": ["self_help"],
+    "mood": ["deep", "motivating"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Art of the Start",
+    "author": "Guy Kawasaki",
+    "language": "en",
+    "genre": ["self_help"],
+    "mood": ["cozy", "motivating"],
+    "depth": "light"
+  },
+  {
+    "title": "The Book of Joy: Lasting Happiness in a Changing World",
+    "author": "Dalai Lama, Desmond Tutu, Douglas Abrams",
+    "language": "en",
+    "genre": ["philosophy", "self_help"],
+    "mood": ["cozy", "soft"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Power of Positive Leadership",
+    "author": "Jon Gordon",
+    "language": "en",
+    "genre": ["self_help"],
+    "mood": ["cozy", "motivating"],
+    "depth": "light"
+  },
+  {
+    "title": "The Art of Communicating",
+    "author": "Thich Nhat Hanh",
+    "language": "en",
+    "genre": ["philosophy", "self_help"],
+    "mood": ["soft", "calm"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Book of Longings: A Novel",
+    "author": "Sue Monk Kidd",
+    "language": "en",
+    "genre": ["fiction"],
+    "mood": ["cozy", "emotional"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Power of Self-Compassion",
+    "author": "Kristin Neff",
+    "language": "en",
+    "genre": ["psychology", "self_help"],
+    "mood": ["soft", "encouraging"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Art of Work",
+    "author": "Jeff Goins",
+    "language": "en",
+    "genre": ["self_help"],
+    "mood": ["cozy", "motivating"],
+    "depth": "light"
+  },
+  {
+    "title": "The Book of Delights",
+    "author": "Ross Gay",
+    "language": "en",
+    "genre": ["philosophy"],
+    "mood": ["cozy", "soft"],
+    "depth": "light"
+  },
+  {
+    "title": "The Power of When",
+    "author": "Michael Breus",
+    "language": "en",
+    "genre": ["psychology", "self_help"],
+    "mood": ["deep", "analytical"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Art of Choosing",
+    "author": "Sheena Iyengar",
+    "language": "en",
+    "genre": ["psychology"],
+    "mood": ["deep", "analytical"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Book of Awakening",
+    "author": "Mark Nepo",
+    "language": "en",
+    "genre": ["philosophy", "self_help"],
+    "mood": ["soft", "calm"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Power of Moments",
+    "author": "Chip Heath, Dan Heath",
+    "language": "en",
+    "genre": ["psychology", "self_help"],
+    "mood": ["cozy", "motivating"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Art of Gathering",
+    "author": "Priya Parker",
+    "language": "en",
+    "genre": ["self_help", "psychology"],
+    "mood": ["soft", "reflective"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Book of Eels",
+    "author": "Patrik Svensson",
+    "language": "en",
+    "genre": ["fiction"],
+    "mood": ["deep", "reflective"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Power of Regret",
+    "author": "Daniel Pink",
+    "language": "en",
+    "genre": ["psychology", "self_help"],
+    "mood": ["deep", "reflective"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Art of the Good Life",
+    "author": "Rolf Dobelli",
+    "language": "en",
+    "genre": ["philosophy", "self_help"],
+    "mood": ["soft", "reflective"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Book of Hope",
+    "author": "Jane Goodall, Douglas Abrams",
+    "language": "en",
+    "genre": ["philosophy", "self_help"],
+    "mood": ["cozy", "soft"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Power of Ritual",
+    "author": "Casper ter Kuile",
+    "language": "en",
+    "genre": ["philosophy", "self_help"],
+    "mood": ["soft", "reflective"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Art of the Impossible",
+    "author": "Steven Kotler",
+    "language": "en",
+    "genre": ["psychology", "self_help"],
+    "mood": ["deep", "motivating"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Power of Bad",
+    "author": "John Tierney, Roy Baumeister",
+    "language": "en",
+    "genre": ["psychology"],
+    "mood": ["deep", "analytical"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Art of the Long View",
+    "author": "Peter Schwartz",
+    "language": "en",
+    "genre": ["self_help"],
+    "mood": ["deep", "analytical"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Art of the Start 2.0",
+    "author": "Guy Kawasaki",
+    "language": "en",
+    "genre": ["self_help"],
+    "mood": ["cozy", "motivating"],
+    "depth": "light"
+  },
+  {
+    "title": "The Art of the Impossible: A Peak Performance Primer",
+    "author": "Steven Kotler",
+    "language": "en",
+    "genre": ["psychology", "self_help"],
+    "mood": ["deep", "motivating"],
+    "depth": "medium"
+  },
+  {
+    "title": "The Book of Delights: Essays",
+    "author": "Ross Gay",
+    "language": "en",
+    "genre": ["philosophy"],
+    "mood": ["cozy", "soft"],
+    "depth": "light"
+  },
+  {
+    "title": "The Power of Now: A Guide to Spiritual Enlightenment",
+    "author": "Eckhart Tolle",
+    "language": "en",
+    "genre": ["philosophy", "self_help"],
+    "mood": ["deep", "calm"],
+    "depth": "deep"
+  },
+  {
+    "title": "The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything",
+    "author": "Guy Kawasaki",
+    "language": "en",
+    "genre": ["self_help"],
+    "mood": ["cozy", "motivating"],
+    "depth": "light"
   }
 ]
