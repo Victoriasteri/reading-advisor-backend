@@ -100,12 +100,19 @@ def recommend(query: Query):
             }
         }
 
-    # Get all books with the best score
+    # Get the best score
     best_score = scored_books[0][0]
-    best_books = [book for score, book in scored_books if score == best_score]
+    
+    # Get all books with the best score OR within 1 point of best score
+    # This adds more variety when there are many books with similar scores
+    if best_score > 0:
+        top_books = [book for score, book in scored_books if score >= best_score - 1]
+    else:
+        top_books = [book for score, book in scored_books if score == best_score]
     
     # Randomly select from top-scoring books to add variety
-    best_book = random.choice(best_books)
+    best_book = random.choice(top_books)
+    actual_score = next(score for score, book in scored_books if book == best_book)
 
     return {
         "predicted": {
@@ -120,6 +127,6 @@ def recommend(query: Query):
             "genre": best_book["genre"],
             "mood": best_book["mood"],
             "depth": best_book["depth"],
-            "score": best_score
+            "score": actual_score
         }
     }
